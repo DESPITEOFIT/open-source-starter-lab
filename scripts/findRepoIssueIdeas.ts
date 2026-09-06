@@ -140,7 +140,7 @@ function findRecipeIssues(): DailyIssue[] {
       const title = content.split("\n")[0].replace(/^#\s*Recipe:\s*/, "").trim();
 
       found.push({
-        title: `Write the recipe: ${title}`,
+        title: `Write the recipe: ${title} (${relPath})`,
         labels: ["daily starter issue", "documentation", "community", "help wanted", "time: 1 hour", "level: second-pr"],
         context: `${relPath} is a stub recipe waiting to be written. It needs: ${note}`,
         goal: `Fill in ${relPath} with a real, practical guide covering what's described.`,

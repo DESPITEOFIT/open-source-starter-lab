@@ -308,6 +308,12 @@ Keep your entry short and professional.
 - I worked on: docs: fill in handling-github-api-errors recipe
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @be-student
+
+- First merged PR: #270
+- I worked on: test: cover issue fit finder behavior
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.

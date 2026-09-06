@@ -296,6 +296,12 @@ Keep your entry short and professional.
 - I worked on: docs: add discussion answer examples
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @ayushdwivedi-stack
+
+- First merged PR: #261
+- I worked on: docs: add guide for debugging failing workflows
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.

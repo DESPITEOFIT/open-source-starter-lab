@@ -320,6 +320,12 @@ Keep your entry short and professional.
 - I worked on: docs: add discussion-to-issue guidance
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @4studiolabs
+
+- First merged PR: #279
+- I worked on: test: cobertura de scoreDailyIssue (closes #272)
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.

@@ -6,7 +6,7 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 - Level: 3 - Trust Builder
 - First merged PR: #77
-- Latest merged PR: #269
+- Latest merged PR: #278
 - Primary skill: open source workflow
 - Proof: merged pull request with maintainer review and project checks
 
@@ -38,9 +38,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 | #269 | 2026-09-06 | open source workflow | Adjust recipe labels based on note length | No linked issue was found in the PR body. |
 
+| #278 | 2026-09-07 | open source workflow | Adjust labels for issues based on line count | No linked issue was found in the PR body. |
+
 ## Suggested Next Step
 
-- Second PR route: #268 Write the recipe: Writing a GitHub Action From Scratch (docs/recipes/writing-a-github-action.md)
+- Second PR route: #275 Give scripts/findRepoIssueIdeas.ts some real test coverage
 
 ## Share Line
 

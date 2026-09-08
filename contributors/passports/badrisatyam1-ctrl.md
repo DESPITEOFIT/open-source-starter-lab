@@ -4,9 +4,9 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 ## Current Level
 
-- Level: 1 - First PR Contributor
+- Level: 2 - Returning Contributor
 - First merged PR: #260
-- Latest merged PR: #260
+- Latest merged PR: #259
 - Primary skill: docs
 - Proof: merged pull request with maintainer review and project checks
 
@@ -16,9 +16,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 | --- | --- | --- | --- | --- |
 | #260 | 2026-09-06 | docs | docs: fill in handling-github-api-errors recipe | #258 |
 
+| #259 | 2026-09-08 | docs | docs: fill in adding-a-new-label recipe | #256 |
+
 ## Suggested Next Step
 
-- Second PR route: #256 Write the recipe: Adding a New Label to the Automation
+- Second PR route: #275 Give scripts/findRepoIssueIdeas.ts some real test coverage
 
 ## Share Line
 

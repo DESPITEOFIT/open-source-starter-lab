@@ -338,6 +338,12 @@ Keep your entry short and professional.
 - I worked on: docs: add pro tip to reading CI failures guide
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @JEISAMATHEW
+
+- First merged PR: #287
+- I worked on: docs: add test fixture recipe
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.
